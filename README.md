@@ -1,4 +1,5 @@
 # Primeiros passos para desenvolver com o Angular
+Esse projeto executa uma mensagem no navegador, aborda a interpolação e ensina como manipular arquivos com o Angular.
 
 ## Pré-requisitos
 - HTML básico.
@@ -38,7 +39,7 @@ Para fazer o código acima aparecer no projeto adicionou a interpolação no app
 >{{ name }}
 
 No app.component.ts criei um input código:
->input [ngModel]="name" name="name"
+>input [ngModel]="name" name="name" >
 
 Importei no app.module.ts:
 >import { BrowserModule } from '@angular/platform-browser'; 
