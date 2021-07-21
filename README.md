@@ -50,5 +50,5 @@ Por fim dentro do imports do app.module.ts adicionei:
 ## Executar o projeto
 >ng serve
 
-## No seu navegador digite para abrir o projeto
+## Digite no navegador para abrir o projeto
 >http://localhost:4200/
