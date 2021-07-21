@@ -47,6 +47,9 @@ Importei no app.module.ts:
 Por fim dentro do imports do app.module.ts adicionei:
 >FormsModule
 
+## Antes de executar o projeto
+Descompacte o arquivo node_modules.rar para obter o node_modules do projeto.
+
 ## Executar o projeto
 >ng serve
 
