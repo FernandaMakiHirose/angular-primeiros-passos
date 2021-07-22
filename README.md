@@ -8,6 +8,9 @@ Esse projeto executa uma mensagem no navegador, aborda a interpolação e ensina
 - Angular CLI.
 - Visual Studio Code.
 
+Para instalar no node_modules:
+>npm install
+
 Para verificar se o Node.js está instalado:
 >node -v 
 
