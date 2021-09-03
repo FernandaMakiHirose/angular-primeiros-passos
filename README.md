@@ -1,13 +1,17 @@
 # Primeiros passos para desenvolver com o Angular
 Esse projeto executa uma mensagem no navegador, aborda a interpolação e ensina como manipular arquivos com o Angular.
 
-## Pré-requisitos
+## Requisitos
 - HTML básico.
 - JavaScript básico.
 - Node.js.
 - Angular CLI.
 - Visual Studio Code.
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
+## Comandos
 Instale no node_modules:
 >npm install
 
@@ -55,9 +59,3 @@ Por fim dentro do imports do app.module.ts adicionei:
 
 ## Digite no navegador para abrir o projeto
 >http://localhost:4200/
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
-
